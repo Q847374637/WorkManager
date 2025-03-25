@@ -1,0 +1,4 @@
+S:\Exchange\-\workmanager\FileCleanInfo\bin\Debug\FileCleanInfo.dll
+S:\Exchange\-\workmanager\FileCleanInfo\bin\Debug\FileCleanInfo.pdb
+S:\Exchange\-\workmanager\FileCleanInfo\obj\Debug\FileCleanInfo.dll
+S:\Exchange\-\workmanager\FileCleanInfo\obj\Debug\FileCleanInfo.pdb
